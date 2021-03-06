@@ -25,4 +25,6 @@
     <string name="title_home">Accueil</string>
     <string name="title_new">Nouvel Article</string>
     <string name="title_profile">Profil</string>
+    <string name="preference_file_key">user</string>
+    <string name="preference_file_key_1">token</string>
 </resources>

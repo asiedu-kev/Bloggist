@@ -8,6 +8,7 @@ public class NewArticleViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
+
     public NewArticleViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is dashboard fragment");
