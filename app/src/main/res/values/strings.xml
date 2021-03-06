@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bloggist</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_write">WriteActivity</string>
+
+    <string name="prompt_email">Adresse email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="connexion">CONNEXION</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="forgotten_password_text">Mot de passe oublié ?</string>
+    <string name="nom">Nom</string>
+    <string name="adresse_email">Adresse email</string>
+    <string name="activity_write_articleTitle_text">Titre de l\'article</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+
+    <string name="title_home">Accueil</string>
+    <string name="title_new">Nouvel Article</string>
+    <string name="title_profile">Profil</string>
+</resources>

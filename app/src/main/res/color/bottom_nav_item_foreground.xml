@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:title="clicked_state"
+            android:state_checked="true"
+            android:color="@color/colorPrimary"/>
+        <item
+            android:title="unclicked_state"
+            android:color="@color/black"/>
+    </selector>
